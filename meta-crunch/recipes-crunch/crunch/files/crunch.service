@@ -1,0 +1,12 @@
+[Unit]
+Description=Crunch Chat Application
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/cloudinary-setup.sh
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target
