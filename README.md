@@ -1,4 +1,4 @@
-# crunch_flask_integration
+
 # Crunch Integration with Yocto Project
 
 This project demonstrates the integration of the **Crunch Chat Application** with Yocto, providing an embedded Linux environment with custom layers, image, and systemd service for application management. The project aims to boost Yocto skills through real-world application integration, dependency management, and automated startup processes.
